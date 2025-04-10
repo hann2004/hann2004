@@ -28,6 +28,7 @@ Let’s Connect
 
 Portfolio:https://hann2004.github.io/my_virtual_assistance_portfolio/ 
 LinkedIn:https://www.linkedin.com/in/hanan-nasir2014
+
 Email: hanannasir2004@gmail.com
 
 “The best way to learn is to build.” – and I live by that.
