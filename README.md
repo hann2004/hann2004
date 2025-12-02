@@ -96,7 +96,7 @@ Repo: *[link]*
 ## Contact
 <p>
   <a href="mailto:your-email"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://t.me/yourtelegram"><img src="https://skillicons.dev/icons?i=telegram" /></a>
+  <a href="https://t.me/Nabii24"><img src="https://skillicons.dev/icons?i=telegram" /></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://upwork.com"><img src="https://skillicons.dev/icons?i=upwork" /></a>
 </p>
