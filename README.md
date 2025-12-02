@@ -1,36 +1,102 @@
-Hi, I'm Hanan Nasir
+<h1 align="center">Hanan</h1>
+<p align="center">
+  Software Engineering Student • KAIM Trainee (10 Academy) • Aspiring Backend & Data Analyst
+</p>
 
-Software Engineering Student | Creative Problem Solver | Lifelong Learner
+---
 
-Welcome to my GitHub! I'm a dedicated Software Engineering student at Arba Minch University, passionate about building real-world projects and constantly learning new technologies. I enjoy working with both high-level and low-level programming languages, and I love digging deep into how things work behind the scenes.
+## Overview
+I’m a Software Engineering student with a growing focus on **data analysis, NLP, and backend development**.  
+I enjoy breaking down problems, exploring data, and building practical solutions that make sense in real contexts — especially in fintech.
 
-What I Do
+Currently, I’m training under **KAIM (10 Academy)**, where I work on end-to-end analytics and real-world AI tasks.
 
-- Develop practical applications using Java and C++
-- Build desktop apps and simple games using SFML
-- Use tools like IntelliJ IDEA and VS Code to write clean, maintainable code
-- Learn through hands-on projects, deep debugging, and collaboration
+---
 
-Tech Stack
+## KAIM Program (10 Academy)
+I’m part of the **KAIM AI & Machine Learning Training Program**, where I build projects that combine **data analysis, NLP, and fintech research**.
 
-- Languages: Java, C++, HTML, CSS, JavaScript
-- Tools & IDEs: IntelliJ IDEA, Visual Studio Code, Git & GitHub
-- Libraries: SFML (for C++ projects)
-- Traits: Fast learner, detail-oriented, committed to growth
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/KAIM-AI/.github/main/profile/kaim-logo.png" width="120" />
+    </td>
+    <td>
+      <b>Key Focus Areas</b>
+      <ul>
+        <li>Data Analysis with Pandas & NumPy</li>
+        <li>NLP using DistilBERT</li>
+        <li>Research & insights on fintech ecosystems</li>
+        <li>End-to-end project development</li>
+        <li>Working with real datasets and structured reporting</li>
+      </ul>
+      <b>Current Direction</b>
+      <ul>
+        <li>Developing stronger storytelling in analytics</li>
+        <li>Improving report writing and data communication</li>
+        <li>Preparing for advanced ML modules</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Featured Project
+---
 
-EmpowerHer Website  
-A collaborative initiative focused on building an accessible website to support and empower women.  
-Developed using HTML and CSS, with workflow organized via Trello.
+## Tools & Technologies
 
-Let’s Connect
+### Programming & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,fastapi,html,css" />
+</p>
 
-Portfolio:https://hann2004.github.io/my_virtual_assistance_portfolio/ 
-LinkedIn:https://www.linkedin.com/in/hanan-nasir2014
+### Data Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
 
-Email: hanannasir2004@gmail.com
+### Productivity & VA Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=notion,figma,trello,googlecloud" />
+</p>
 
-“The best way to learn is to build.” – and I live by that.
+### Development Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,linux,git" />
+</p>
 
-Thanks for visiting!
+---
+
+## Featured Work
+
+### Fintech App Review Analytics (KAIM)
+A full workflow project involving:
+- Data cleaning  
+- Sentiment analysis  
+- Topic modeling  
+- Insight reporting  
+- NLP with DistilBERT  
+
+Repo: *[link]*
+
+### 3D Portfolio Website
+Interactive portfolio built with Three.js showcasing my virtual assistant and frontend experience.  
+Repo: *[link]*
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hann2004&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hann2004&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## Contact
+<p>
+  <a href="mailto:your-email"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://t.me/yourtelegram"><img src="https://skillicons.dev/icons?i=telegram" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://upwork.com"><img src="https://skillicons.dev/icons?i=upwork" /></a>
+</p>
