@@ -1,117 +1,94 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hann2004/hann2004/main/header-dark.png" width="100%" />
-</p>
-
-<h1 align="center">Hanan</h1>
-<p align="center">
-  Software Engineering Student • KAIM Trainee (10 Academy) • Aspiring Backend & Data Analyst
-</p>
+<h1 align="center"> I'm Hanan (Nabi)</h1>
+<h3 align="center">Software Engineering Student | Backend Developer in Progress | KAIM Trainee</h3>
 
 ---
 
-## Overview
-I’m a Software Engineering student with a growing focus on **data analysis, NLP, backend development, and real-world problem solving**.  
-I enjoy working with real datasets, extracting insights, and communicating results clearly.
+###  I’m currently working on:
+- Backend development with **Python, FastAPI, and PostgreSQL**
+- Data analytics projects as part of my **KAIM 10 Academy Training**
+- Building practical systems and automation tools
 
-Right now, I’m training under **KAIM (10 Academy)** — a program focused on AI, analytics, and impactful fintech projects.
+###  I’m looking to collaborate on:
+- Backend projects (Python/FastAPI)
+- Data analytics or fintech-related projects
+- Any initiative that involves Python, APIs, or automation
 
----
+###  I’m looking for help with:
+- Scaling backend systems
+- Improving my database design skills
+- Data engineering pipelines (I’m getting into it!)
 
-## KAIM Program (10 Academy)
+###  I’m currently learning:
+- PostgreSQL (deep dive)
+- FastAPI advanced concepts
+- Data analysis workflows (KAIM program)
+- API development & automation
 
-I’m part of the **KAIM AI & Machine Learning Program**, where I work on structured, real-world analytics and NLP tasks.
+###  Ask me about:
+- My experience as an ALX Virtual Assistant graduate  
+- My front-end background (HTML/CSS/Trello workflow)  
+- How I'm transitioning into backend & data  
 
-<table>
-  <tr>
-    <td align="center">
-      <h2>KAIM</h2>
-    </td>
-    <td>
-      <b>Key Focus Areas</b>
-      <ul>
-        <li>Data Analysis with Pandas & NumPy</li>
-        <li>NLP using DistilBERT</li>
-        <li>Fintech ecosystem research</li>
-        <li>Analytical storytelling & reporting</li>
-        <li>End-to-end project development</li>
-      </ul>
-      <b>Current Direction</b>
-      <ul>
-        <li>Building stronger insight communication</li>
-        <li>Structuring data reports for leadership</li>
-        <li>Preparing for advanced ML modules</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### ⚡ Fun fact:
+I learn best by building real projects — I don’t like too much theory, I want results I can *see*.
+
+###  How to reach me:
+- **Email:** hann2004hanna@gmail.com  
+- **Telegram:** t.me/hann2004  
+- **LinkedIn:** (add your link here)
 
 ---
 
-## Tools & Technologies
-
-### Programming & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,fastapi,html,css" />
-</p>
-
-### Data Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-  <img src="https://skillicons.dev/icons?i=github" />
-</p>
-
-### Virtual Assistant Tools
-<p>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-### Development Environment
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,linux,git" />
-</p>
+## 🌐 Socials
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](YOUR_UPWORK_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/hanan-nasir2014)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](www.telegram.com/naboo24)
 
 ---
 
-## Featured Projects
+## 💻 Tech Stack
 
-### Fintech App Review Analytics (KAIM)
-A full pipeline project including:
-- Data cleaning  
-- Sentiment analysis  
-- Topic modeling  
-- NLP with DistilBERT  
-- Structured insights for fintech teams  
+### **Languages & Backend**
+Python • FastAPI • PostgreSQL • SQLite • Java (basics)  
 
-Repo: https://github.com/hann2004/Kaim-week2-fintech-reviews.git
+### **Frontend**
+HTML5 • CSS3  
 
----
+### **Tools**
+Git • GitHub • Trello • Notion • VS Code • Linux Mint  
 
-### 3D Portfolio Website
-An interactive 3D portfolio showcasing my work in virtual assistance and front-end development.
-
-Repo: https://hanan-virtual-assistant.netlify.app/
+### **Data**
+NumPy • Pandas • Basic Analytics (KAIM training)
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hann2004&theme=tokyonight" width="48%" />
-</p>
+##  GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hann2004&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hann2004&theme=tokyonight" width="49%" />
+</div>
 
 ---
 
-## Contact
-<p>
-  <a href="mailto:hanan.nasir1209@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/Nabii24">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/hanan-nasir2014">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+##  GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hann2004&theme=tokyonight&row=1&column=6" />
+</div>
+
+---
+
+##  Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+##  KAIM (10 Academy) Training
+A proud trainee of **KAIM 10 Academy**, currently exploring:
+
+- Data Analytics  
+- Machine Learning Foundations  
+- Fintech Insights & Real-World Projects  
+- Python for data workflows  
+
