@@ -10,15 +10,16 @@
 ---
 
 ## Overview
-I’m a Software Engineering student with a growing focus on **data analysis, NLP, and backend development**.  
-I like working with real data, extracting insights, and building useful solutions — especially in fintech.
+I’m a Software Engineering student with a growing focus on **data analysis, NLP, backend development, and real-world problem solving**.  
+I enjoy working with real datasets, extracting insights, and communicating results clearly.
 
-Currently, I’m training under **KAIM (10 Academy)** where I work on structured, real-world AI and analytics projects.
+Right now, I’m training under **KAIM (10 Academy)** — a program focused on AI, analytics, and impactful fintech projects.
 
 ---
 
 ## KAIM Program (10 Academy)
-I’m part of the **KAIM AI & Machine Learning Training Program**, working on end-to-end projects combining fintech, analytics, and NLP.
+
+I’m part of the **KAIM AI & Machine Learning Program**, where I work on structured, real-world analytics and NLP tasks.
 
 <table>
   <tr>
@@ -28,16 +29,16 @@ I’m part of the **KAIM AI & Machine Learning Training Program**, working on en
     <td>
       <b>Key Focus Areas</b>
       <ul>
-        <li>Data analysis with Pandas & NumPy</li>
+        <li>Data Analysis with Pandas & NumPy</li>
         <li>NLP using DistilBERT</li>
-        <li>Research & insights on fintech ecosystems</li>
+        <li>Fintech ecosystem research</li>
+        <li>Analytical storytelling & reporting</li>
         <li>End-to-end project development</li>
-        <li>Working with real datasets and structured reporting</li>
       </ul>
       <b>Current Direction</b>
       <ul>
-        <li>Developing strong analytical storytelling</li>
-        <li>Improving communication of insights</li>
+        <li>Building stronger insight communication</li>
+        <li>Structuring data reports for leadership</li>
         <li>Preparing for advanced ML modules</li>
       </ul>
     </td>
@@ -61,7 +62,10 @@ I’m part of the **KAIM AI & Machine Learning Training Program**, working on en
 
 ### Virtual Assistant Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=notion,figma,trello,googlecloud" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ### Development Environment
@@ -74,17 +78,20 @@ I’m part of the **KAIM AI & Machine Learning Training Program**, working on en
 ## Featured Projects
 
 ### Fintech App Review Analytics (KAIM)
-A complete analysis pipeline including:
+A full pipeline project including:
 - Data cleaning  
 - Sentiment analysis  
 - Topic modeling  
-- Insight reporting  
 - NLP with DistilBERT  
+- Structured insights for fintech teams  
 
 Repo: *[link]*
 
+---
+
 ### 3D Portfolio Website
-Interactive portfolio built with Three.js showcasing virtual assistant and frontend work.  
+An interactive 3D portfolio showcasing my work in virtual assistance and front-end development.
+
 Repo: *[link]*
 
 ---
@@ -92,15 +99,20 @@ Repo: *[link]*
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hann2004&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hann2004&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=hann2004&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
 ## Contact
 <p>
-  <a href="mailto:your-email"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://t.me/Nabii24"><img src="https://skillicons.dev/icons?i=telegram" /></a>
-  <a href="https://linkedin.com/in/hanan-nasir2014"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://upwork.com"><img src="https://skillicons.dev/icons?i=upwork" /></a>
+  <a href="mailto:hanan.nasir1209@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/Nabii24">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/hanan-nasir2014">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
