@@ -42,7 +42,7 @@ I learn best by building real projects — I don’t like too much theory, I wan
 ---
 
 ## 🌐 Socials
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](YOUR_UPWORK_LINK)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019735c5eb415f3c0e)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/hanan-nasir2014)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Nabii24)
 
@@ -65,7 +65,8 @@ I learn best by building real projects — I don’t like too much theory, I wan
 ### **Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Data-Analytics-0A66C2?style=for-the-badge&logoColor=white" />
 </p>
 
@@ -74,7 +75,7 @@ I learn best by building real projects — I don’t like too much theory, I wan
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hann2004&show_icons=true&theme=tokyonight&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=hann2004&theme=tokyonight" width="48%" />
 </p>
 
 
