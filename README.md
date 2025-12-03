@@ -60,19 +60,21 @@ I learn best by building real projects — I don’t like too much theory, I wan
 
 ### **Tools**
 
- <p> <img src="https://skillicons.dev/icons?i=git,github,trello,notion,vscode,linux" /> </p>
+ <p> <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,linux" /> </p>
 
 ### **Data**
 
-<p> <img src="https://skillicons.dev/icons?i=numpy,pandas" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+  <img src="https://img.shields.io/badge/Data-Analytics-0A66C2?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hann2004&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=hann2004&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hann2004&show_icons=true&theme=tokyonight&border_radius=10" />
 </p>
 
 
@@ -80,10 +82,9 @@ I learn best by building real projects — I don’t like too much theory, I wan
 
 ##  GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hann2004&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=hann2004&theme=tokyonight&border_radius=10" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hann2004&theme=tokyonight&row=1&column=6" />
+</div>
 
 
 ---
