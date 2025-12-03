@@ -44,7 +44,7 @@ I learn best by building real projects — I don’t like too much theory, I wan
 ## 🌐 Socials
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](YOUR_UPWORK_LINK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/hanan-nasir2014)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](@Nabii24)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Nabii24)
 
 ---
 
@@ -79,9 +79,12 @@ I learn best by building real projects — I don’t like too much theory, I wan
 ---
 
 ##  GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hann2004&theme=tokyonight&row=1&column=6" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hann2004&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=hann2004&theme=tokyonight&border_radius=10" width="48%" />
+</p>
+
 
 ---
 
