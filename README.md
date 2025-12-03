@@ -24,7 +24,7 @@ I’m part of the **KAIM AI & Machine Learning Program**, where I work on struct
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/KAIM-AI/.github/main/profile/kaim-logo.png" width="120" />
+      <h2>KAIM</h2>
     </td>
     <td>
       <b>Key Focus Areas</b>
@@ -85,7 +85,7 @@ A full pipeline project including:
 - NLP with DistilBERT  
 - Structured insights for fintech teams  
 
-Repo: *[link]*
+Repo: https://github.com/hann2004/Kaim-week2-fintech-reviews.git
 
 ---
 
@@ -98,7 +98,6 @@ Repo: https://hanan-virtual-assistant.netlify.app/
 
 ## GitHub Stats
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=hann2004&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=hann2004&theme=tokyonight" width="48%" />
 </p>
 
