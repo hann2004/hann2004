@@ -43,7 +43,7 @@ I learn best by building real projects — I don’t like too much theory, I wan
 
 ## 🌐 Socials
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019735c5eb415f3c0e)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/hanan-nasir2014)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hanan-nasir2014)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Nabii24)
 
 ---
@@ -73,10 +73,10 @@ I learn best by building real projects — I don’t like too much theory, I wan
 ---
 
 ##  GitHub Stats
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=hann2004&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=hann2004&theme=tokyonight&border_radius=10" width="48%" />
 </p>
+
 
 
 ---
