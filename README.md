@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hann2004/hann2004/main/header-dark.png" width="100%" />
+</p>
+
 <h1 align="center">Hanan</h1>
 <p align="center">
   Software Engineering Student • KAIM Trainee (10 Academy) • Aspiring Backend & Data Analyst
@@ -7,14 +11,14 @@
 
 ## Overview
 I’m a Software Engineering student with a growing focus on **data analysis, NLP, and backend development**.  
-I enjoy breaking down problems, exploring data, and building practical solutions that make sense in real contexts — especially in fintech.
+I like working with real data, extracting insights, and building useful solutions — especially in fintech.
 
-Currently, I’m training under **KAIM (10 Academy)**, where I work on end-to-end analytics and real-world AI tasks.
+Currently, I’m training under **KAIM (10 Academy)** where I work on structured, real-world AI and analytics projects.
 
 ---
 
 ## KAIM Program (10 Academy)
-I’m part of the **KAIM AI & Machine Learning Training Program**, where I build projects that combine **data analysis, NLP, and fintech research**.
+I’m part of the **KAIM AI & Machine Learning Training Program**, working on end-to-end projects combining fintech, analytics, and NLP.
 
 <table>
   <tr>
@@ -24,7 +28,7 @@ I’m part of the **KAIM AI & Machine Learning Training Program**, where I build
     <td>
       <b>Key Focus Areas</b>
       <ul>
-        <li>Data Analysis with Pandas & NumPy</li>
+        <li>Data analysis with Pandas & NumPy</li>
         <li>NLP using DistilBERT</li>
         <li>Research & insights on fintech ecosystems</li>
         <li>End-to-end project development</li>
@@ -32,8 +36,8 @@ I’m part of the **KAIM AI & Machine Learning Training Program**, where I build
       </ul>
       <b>Current Direction</b>
       <ul>
-        <li>Developing stronger storytelling in analytics</li>
-        <li>Improving report writing and data communication</li>
+        <li>Developing strong analytical storytelling</li>
+        <li>Improving communication of insights</li>
         <li>Preparing for advanced ML modules</li>
       </ul>
     </td>
@@ -55,7 +59,7 @@ I’m part of the **KAIM AI & Machine Learning Training Program**, where I build
   <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
-### Productivity & VA Tools
+### Virtual Assistant Tools
 <p>
   <img src="https://skillicons.dev/icons?i=notion,figma,trello,googlecloud" />
 </p>
@@ -67,10 +71,10 @@ I’m part of the **KAIM AI & Machine Learning Training Program**, where I build
 
 ---
 
-## Featured Work
+## Featured Projects
 
 ### Fintech App Review Analytics (KAIM)
-A full workflow project involving:
+A complete analysis pipeline including:
 - Data cleaning  
 - Sentiment analysis  
 - Topic modeling  
@@ -80,7 +84,7 @@ A full workflow project involving:
 Repo: *[link]*
 
 ### 3D Portfolio Website
-Interactive portfolio built with Three.js showcasing my virtual assistant and frontend experience.  
+Interactive portfolio built with Three.js showcasing virtual assistant and frontend work.  
 Repo: *[link]*
 
 ---
@@ -97,6 +101,6 @@ Repo: *[link]*
 <p>
   <a href="mailto:your-email"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://t.me/Nabii24"><img src="https://skillicons.dev/icons?i=telegram" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://linkedin.com/in/hanan-nasir2014"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://upwork.com"><img src="https://skillicons.dev/icons?i=upwork" /></a>
 </p>
