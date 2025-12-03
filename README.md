@@ -74,7 +74,7 @@ I learn best by building real projects — I don’t like too much theory, I wan
 
 ##  GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hann2004&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hann2004&theme=tokyonight&border_radius=10" width="48%" />
 </p>
 
 
