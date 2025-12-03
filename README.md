@@ -37,7 +37,6 @@ I learn best by building real projects — I don’t like too much theory, I wan
 
 ###  How to reach me:
 - **Email:** hann2004hanna@gmail.com  
-- **Telegram:** t.me/Nabii24 
 - **LinkedIn:** www.linkedin.com/in/hanan-nasir2014
 
 ---
@@ -45,31 +44,37 @@ I learn best by building real projects — I don’t like too much theory, I wan
 ## 🌐 Socials
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](YOUR_UPWORK_LINK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/hanan-nasir2014)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](t.me/Nabii24 )
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](@Nabii24)
 
 ---
 
 ## 💻 Tech Stack
 
 ### **Languages & Backend**
-Python • FastAPI • PostgreSQL • SQLite • Java (basics)  
+
+<p> <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,java,ts" /> </p>
 
 ### **Frontend**
-HTML5 • CSS3  
+
+<p> <img src="https://skillicons.dev/icons?i=html,css,nextjs" /> </p>
 
 ### **Tools**
-Git • GitHub • Trello • Notion • VS Code • Linux Mint  
+
+ <p> <img src="https://skillicons.dev/icons?i=git,github,trello,notion,vscode,linux" /> </p>
 
 ### **Data**
-NumPy • Pandas • Basic Analytics (KAIM training)
+
+<p> <img src="https://skillicons.dev/icons?i=numpy,pandas" /> </p>
 
 ---
 
 ##  GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hann2004&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hann2004&theme=tokyonight" width="49%" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hann2004&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=hann2004&theme=tokyonight&border_radius=10" width="48%" />
+</p>
+
 
 ---
 
