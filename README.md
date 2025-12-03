@@ -1,5 +1,8 @@
 <h1 align="center"> I'm Hanan (Nabi)</h1>
 <h3 align="center">Software Engineering Student | Backend Developer in Progress | KAIM Trainee</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hann2004&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 ---
 
@@ -34,15 +37,15 @@ I learn best by building real projects — I don’t like too much theory, I wan
 
 ###  How to reach me:
 - **Email:** hann2004hanna@gmail.com  
-- **Telegram:** t.me/hann2004  
-- **LinkedIn:** (add your link here)
+- **Telegram:** t.me/Nabii24 
+- **LinkedIn:** www.linkedin.com/in/hanan-nasir2014
 
 ---
 
 ## 🌐 Socials
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](YOUR_UPWORK_LINK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/hanan-nasir2014)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](www.telegram.com/naboo24)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](t.me/Nabii24 )
 
 ---
 
