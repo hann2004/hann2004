@@ -1,4 +1,9 @@
 <h1 align="center"> I'm Hanan (Nabi)</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./header-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./header-dark.png" />
+  <img alt="Hanan Nasir — Profile Header" src="./header-dark.png" />
+</picture>
 <h3 align="center">Software Engineering Student | Backend Developer in Progress | KAIM Trainee</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hann2004&label=Profile%20Views&color=blueviolet&style=flat" />
@@ -50,10 +55,8 @@ I learn best by building real projects — I don’t like too much theory, I wan
 ---
 
 ## 💼 Featured Projects
-<!-- Replace with your actual repos; pin them on your profile too -->
-- [FastAPI + PostgreSQL API](#) — Auth, CRUD, migrations, basic tests
-- [Data Automation Toolkit](#) — ETL for CSV/JSON, scheduling, logging, error handling
-- [CLI Utilities](#) — Python scripts to automate repetitive tasks
+- <a href="https://github.com/hann2004/empower_library_api">Empower Library API</a> — FastAPI + PostgreSQL backend to manage library resources (CRUD, auth-ready, modular design)
+- <a href="https://github.com/hann2004/Kaim-week2-fintech-reviews">KAIM Week 2: Fintech Reviews</a> — NLP & analytics on fintech app reviews for sentiment and actionable insights
 
 ---
 
@@ -74,6 +77,14 @@ I learn best by building real projects — I don’t like too much theory, I wan
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Data-Analytics-0A66C2?style=for-the-badge&logoColor=white" />
 </p>
+
+---
+
+## 📊 GitHub CI Status
+<!-- Status badge from KAIM Week 1 repo -->
+<a href="https://github.com/hann2004/kaim-week1-news-sentiment/actions/workflows/ci.yml">
+  <img src="https://github.com/hann2004/kaim-week1-news-sentiment/actions/workflows/ci.yml/badge.svg" alt="CI" />
+</a>
 
 ---
 
