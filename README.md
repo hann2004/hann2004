@@ -6,28 +6,28 @@
 
 ---
 
-###  I’m currently working on:
+### I’m currently working on:
 - Backend development with **Python, FastAPI, and PostgreSQL**
 - Data analytics projects as part of my **KAIM 10 Academy Training**
 - Building practical systems and automation tools
 
-###  I’m looking to collaborate on:
+### I’m looking to collaborate on:
 - Backend projects (Python/FastAPI)
 - Data analytics or fintech-related projects
 - Any initiative that involves Python, APIs, or automation
 
-###  I’m looking for help with:
+### I’m looking for help with:
 - Scaling backend systems
 - Improving my database design skills
 - Data engineering pipelines (I’m getting into it!)
 
-###  I’m currently learning:
+### I’m currently learning:
 - PostgreSQL (deep dive)
 - FastAPI advanced concepts
 - Data analysis workflows (KAIM program)
 - API development & automation
 
-###  Ask me about:
+### Ask me about:
 - My experience as an ALX Virtual Assistant graduate  
 - My front-end background (HTML/CSS/Trello workflow)  
 - How I'm transitioning into backend & data  
@@ -35,9 +35,10 @@
 ### ⚡ Fun fact:
 I learn best by building real projects — I don’t like too much theory, I want results I can *see*.
 
-###  How to reach me:
-- **Email:** hann2004hanna@gmail.com  
-- **LinkedIn:** www.linkedin.com/in/hanan-nasir2014
+### How to reach me:
+- **Email:** hanan.nasir1209@gmail.com  
+- **Alt Email (Academic):** nsr.464.16@amu.edu.et  
+- **LinkedIn:** https://www.linkedin.com/in/hanan-nasir2014
 
 ---
 
@@ -48,22 +49,26 @@ I learn best by building real projects — I don’t like too much theory, I wan
 
 ---
 
+## 💼 Featured Projects
+<!-- Replace with your actual repos; pin them on your profile too -->
+- [FastAPI + PostgreSQL API](#) — Auth, CRUD, migrations, basic tests
+- [Data Automation Toolkit](#) — ETL for CSV/JSON, scheduling, logging, error handling
+- [CLI Utilities](#) — Python scripts to automate repetitive tasks
+
+---
+
 ## 💻 Tech Stack
 
-### **Languages & Backend**
+### Languages & Backend
+<p><img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,java,ts" /></p>
 
-<p> <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,java,ts" /> </p>
+### Frontend
+<p><img src="https://skillicons.dev/icons?i=html,css,nextjs" /></p>
 
-### **Frontend**
+### Tools
+<p><img src="https://skillicons.dev/icons?i=git,github,notion,vscode,linux" /></p>
 
-<p> <img src="https://skillicons.dev/icons?i=html,css,nextjs" /> </p>
-
-### **Tools**
-
- <p> <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,linux" /> </p>
-
-### **Data**
-
+### Data
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=python&logoColor=white" />
@@ -72,36 +77,31 @@ I learn best by building real projects — I don’t like too much theory, I wan
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hann2004&theme=tokyonight&border_radius=10" width="48%" />
 </p>
 
-
-
 ---
 
-##  GitHub Trophies
-
+## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hann2004&theme=tokyonight&row=1&column=6" />
 </div>
 
-
 ---
 
-##  Random Dev Quote
+## 💬 Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
 
-##  KAIM (10 Academy) Training
+## 🎓 KAIM (10 Academy) Training
 A proud trainee of **KAIM 10 Academy**, currently exploring:
 
 - Data Analytics  
 - Machine Learning Foundations  
 - Fintech Insights & Real-World Projects  
-- Python for data workflows  
-
+- Python for data workflows
