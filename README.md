@@ -24,7 +24,7 @@
 
 ## About
 
-I'm Hanan, a Junior Data Scientist and Python Backend Developer passionate about building machine learning and data-driven solutions—from financial forecasting and credit risk modeling to LLM chatbots and workflow automation. Real-world impact, clean scalable code, and advanced ML/AI are my priorities.
+I'm Hanan, a Junior Data Scientist and Python Backend Developer passionate about building machine learning and data-driven solutions from financial forecasting and credit risk modeling to LLM chatbots and workflow automation. Real-world impact, clean scalable code, and advanced ML/AI are my priorities.
 
 ---
 
