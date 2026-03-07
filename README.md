@@ -1,118 +1,121 @@
-<h1 align="center"> I'm Hanan (Nabi)</h1>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./header-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="./header-dark.png" />
-  <img alt="Hanan Nasir — Profile Header" src="./header-dark.png" />
-</picture>
-<h3 align="center">Software Engineering Student | Backend Developer in Progress | KAIM Trainee</h3>
+<h1 align="center">Hanan Nasir</h1>
+<p align="center"><b>Machine Learning Enthusiast · Junior Data Scientist · Backend Developer</b></p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hann2004&label=Profile%20Views&color=blueviolet&style=flat" />
+  <a href="mailto:hanan.nasir1209@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hanan-nasir2014">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/hann2004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://hanannasir-portfolio-gze5.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hann2004&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-### I’m currently working on:
-- Backend development with **Python, FastAPI, and PostgreSQL**
-- Data analytics projects as part of my **KAIM 10 Academy Training**
-- Building practical systems and automation tools
+## About
 
-### I’m looking to collaborate on:
-- Backend projects (Python/FastAPI)
-- Data analytics or fintech-related projects
-- Any initiative that involves Python, APIs, or automation
-
-### I’m looking for help with:
-- Scaling backend systems
-- Improving my database design skills
-- Data engineering pipelines (I’m getting into it!)
-
-### I’m currently learning:
-- PostgreSQL (deep dive)
-- FastAPI advanced concepts
-- Data analysis workflows (KAIM program)
-- API development & automation
-
-### Ask me about:
-- My experience as an ALX Virtual Assistant graduate  
-- My front-end background (HTML/CSS/Trello workflow)  
-- How I'm transitioning into backend & data  
-
-### ⚡ Fun fact:
-I learn best by building real projects — I don’t like too much theory, I want results I can *see*.
-
-### How to reach me:
-- **Email:** hanan.nasir1209@gmail.com  
-- **Alt Email (Academic):** nsr.464.16@amu.edu.et  
-- **LinkedIn:** https://www.linkedin.com/in/hanan-nasir2014
+I'm Hanan, a Junior Data Scientist and Python Backend Developer passionate about building machine learning and data-driven solutions—from financial forecasting and credit risk modeling to LLM chatbots and workflow automation. Real-world impact, clean scalable code, and advanced ML/AI are my priorities.
 
 ---
 
-## 🌐 Socials
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019735c5eb415f3c0e)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hanan-nasir2014)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Nabii24)
+## Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Seaborn-579ACA?style=for-the-badge&logo=seaborn&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
-## 💼 Featured Projects
-- <a href="https://github.com/hann2004/empower_library_api">Empower Library API</a> — FastAPI + PostgreSQL backend to manage library resources (CRUD, auth-ready, modular design)
-- <a href="https://github.com/hann2004/Kaim-week2-fintech-reviews">KAIM Week 2: Fintech Reviews</a> — NLP & analytics on fintech app reviews for sentiment and actionable insights
+## Featured Projects
+
+- **[Financial Inclusion Forecasting](https://github.com/hann2004/ethiopia-fi-forecast):**  
+  Predictive analytics to forecast financial inclusion in Ethiopia using real-world data and feature engineering.
+- **[Fraud Detection Model](https://github.com/hann2004/fraud-detection):**  
+  ML classification for detecting transaction fraud using robust data pipelines.
+- **[Credit Risk Prediction Model](https://github.com/hann2004/credit-risk-model):**  
+  Machine learning models for credit risk assessment; practical application of classification and EDA.
+- **[Portfolio Optimization](https://github.com/hann2004/portfolio-optimization):**  
+  Analytics/statistical methods to maximize portfolio returns and control risk.
+- **[RAG Complaint Chatbot](https://github.com/hann2004/rag-complaint-chatbot):**  
+  LLM-powered chatbot capable of retrieval-augmented generation and natural language complaint handling.
+- **[Medical Telegram Data Warehouse](https://github.com/hann2004/medical-telegram-warehouse):**  
+  Backend platform for collecting and organizing medical data from Telegram sources.
 
 ---
 
-## 💻 Tech Stack
+## GitHub Stats
 
-### Languages & Backend
-<p><img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,java,ts" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hann2004&theme=tokyonight&border_radius=10" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hann2004&theme=tokyonight&row=1&column=6" width="50%" />
+</p>
 
-### Frontend
-<p><img src="https://skillicons.dev/icons?i=html,css,nextjs" /></p>
+---
 
-### Tools
-<p><img src="https://skillicons.dev/icons?i=git,github,notion,vscode,linux" /></p>
+## Developer Quote
 
-### Data
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+---
+
+## Currently Exploring
+
+- LLMs and retrieval-augmented generation (RAG)
+- Production ML workflows & automation
+- Backend systems at scale
+
+---
+
+## Connect
+
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data-Analytics-0A66C2?style=for-the-badge&logoColor=white" />
+  <a href="mailto:hanan.nasir1209@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hanan-nasir2014">
+    <img src="https://img.shields.io/badge/LinkedIn%20profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/hann2004">
+    <img src="https://img.shields.io/badge/My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://hanannasir-portfolio-gze5.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
----
-
-## 📊 GitHub CI Status
-<!-- Status badge from KAIM Week 1 repo -->
-<a href="https://github.com/hann2004/kaim-week1-news-sentiment/actions/workflows/ci.yml">
-  <img src="https://github.com/hann2004/kaim-week1-news-sentiment/actions/workflows/ci.yml/badge.svg" alt="CI" />
-</a>
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hann2004&theme=tokyonight&border_radius=10" width="48%" />
+  <sub>Last updated: March 2026</sub>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hann2004&theme=tokyonight&row=1&column=6" />
-</div>
-
----
-
-## 💬 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-## 🎓 KAIM (10 Academy) Training
-A proud trainee of **KAIM 10 Academy**, currently exploring:
-
-- Data Analytics  
-- Machine Learning Foundations  
-- Fintech Insights & Real-World Projects  
-- Python for data workflows
